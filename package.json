@@ -1,0 +1,17 @@
+{
+  "name": "mongoconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbConfig.js",
+  "scripts": {
+    "start-app": "nodemon dbconfig.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.11.0",
+    "nodemon": "^2.0.20"
+  }
+}
